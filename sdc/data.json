@@ -1,0 +1,53 @@
+{
+	"basics":{
+		"name":"jayamanohar",
+		"role":"student",
+		"mobile":"+91 9100868887",
+		"email":"jayajayasreereddy@gmail.com" 
+   },
+   "career":{
+   	  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+   },
+
+"education":[
+	{
+	"degree":"s.s.c",
+	"instute":"scholars international school",
+	"data":["2014","90"]
+},
+
+{
+	"degree":"inter",
+	"instute":"scholars junior college",
+	"data":["2016","70"]
+},
+{
+
+	"degree":"B-tech",
+	"instute":"vignan's nirula",
+	"data":["2020","75"]
+}
+],
+"skills":[
+{
+	"title":"programming languages",
+	"content":["python","C","java","SRP","C++"]
+},
+
+{
+	"title":"Data bases",
+	"content":["SQL","oracle","mySQ1"]
+},
+
+{
+	"title":"Web Technologies",
+	"content":["HTML","XML","javaScripts"]
+},
+{
+	"title":"Operating Systems",
+	"content":["Linux","Windows","Unix"]
+}
+]
+}
+
+
